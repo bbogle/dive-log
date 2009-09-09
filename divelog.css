@@ -1,0 +1,17 @@
+/* CSS Document */
+
+#divelog {
+	background-color:#F5F1D6;
+	border-style:dashed;
+	border-color:#6666FF;
+	border-width:1px;
+	margin: 0; padding: 0;
+}
+
+.tiempo_fondo {
+	padding: 1px 1px 1px 3px;
+	margin: 1px 1px 1px 3px;
+	list-style: none;
+}
+	
+	
